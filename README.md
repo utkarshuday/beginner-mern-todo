@@ -1,4 +1,4 @@
-# Project Name
+# To Do Application
 
 This project consists of two main parts:
 
