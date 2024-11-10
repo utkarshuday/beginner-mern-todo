@@ -29,6 +29,7 @@ cd backend
 npm install
 node src/server.js
 ```
+
 The backend server will run on http://localhost:3000
 
 ### 3. Setting up the Frontend
@@ -40,4 +41,5 @@ cd frontend
 npm install
 npm run dev
 ```
+
 The frontend server will run on http://localhost:5173
